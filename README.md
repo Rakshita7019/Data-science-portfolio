@@ -9,5 +9,8 @@ This repository contains my practice projects, including:
 - Machine Learning models
 - Visualization projects
 
-Stay tuned as I learn and grow!
+<p>Click the button below to view my project on GitHub:</p>
+<a href="https://github.com/yourusername/yourrepositoryname" target="_blank">
+   <button>View My Project</button>
+</a>
 
