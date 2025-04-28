@@ -9,5 +9,5 @@ This repository contains my practice projects, including:
 - Machine Learning models
 - Visualization projects
 
-<a href="https://rakshita7019.github.io/Data-science-portfolio/" target="_blank">View My Data Science Portfolio</a>
+<a href="https://github.com/Rakshita7019/Data-science-portfolio" target="_blank">View My Data Science Portfolio</a>
 
