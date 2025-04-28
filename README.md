@@ -10,3 +10,4 @@ This repository contains my practice projects, including:
 - Visualization projects
 
 Stay tuned as I learn and grow!
+covid19-analysis-project.ipynb
