@@ -10,7 +10,7 @@ This repository contains my practice projects, including:
 - Visualization projects
 
 <p>Click the button below to view my project on GitHub:</p>
-<a href="https://github.com/yourusername/yourrepositoryname" target="_blank">
+<a href="https://github.com/Rakshita7019/Data-science-portfolio" target="_blank">
    <button>View My Project</button>
 </a>
 
